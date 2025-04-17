@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>初瀬行政書士事務所</title>
+  <title>初瀬事務所</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; color: #333; }
     header { background-color: #f5f5f5; padding: 20px; }
@@ -23,7 +23,7 @@
 <body>
   <header>
     <div class="container">
-      <h1>初瀬行政書士事務所</h1>
+      <h1>初瀬事務所</h1>
       <nav>
         <ul>
           <li><a href="#top">トップ</a></li>
@@ -86,8 +86,8 @@
 
     <section id="profile">
       <h2>プロフィール</h2>
-      <p>行政書士 初瀬 太基（はつせ たいき）<br>
-      千葉県行政書士会所属。不動産・建設業界に特化した許認可サポートを提供。</p>
+      <p>初瀬 太基（はつせ たいき）<br>
+      不動産・建設業界に特化したサポートを提供。</p>
     </section>
 
     <section id="contact">
@@ -102,7 +102,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2025 初瀬行政書士事務所｜千葉県｜平日 9:00〜18:00</p>
+    <p>&copy; 2025 初瀬事務所｜千葉県｜平日 9:00〜18:00</p>
   </footer>
 </body>
 </html>
